@@ -1,7 +1,8 @@
 SolidWorks IGES file using NURBS representation for surfaces            S      1
-1H,,1H;,7H—борка2,33HF:\Learning\OAK\Lab_8\—борка2.IGS,15HSolidWorks 201G      1
-9,15HSolidWorks 2019,32,308,15,308,15,7H—борка2,1.,2,2HMM,50,0.125,13H20G      2
-1002.141437,1E-08,499990.,9HYoUr_IcOn,,11,0,13H201002.141437;           G      3
+1H,,1H;,14H—борка2.SLDASM,29HE:\GGTU\OAK\Lab_8\—борка2.IGS,15HSolidWorksG      1
+ 2019,15HSolidWorks 2019,32,308,15,308,15,14H—борка2.SLDASM,1.,2,2HMM,  G      2
+50,0.125,13H201120.004540,1E-08,499990.,9HYoUr_IcOn,,11,0,13H201120.0045G      3
+40;                                                                     G      4
      314       1       0       0       0                        00000200D      1
      314       0       8       1       0                               0D      2
      128       2       0       0       0                        01010000D      3
@@ -2050,4 +2051,4 @@ SolidWorks IGES file using NURBS representation for surfaces            S      1
 124,0.,0.,1.,-135.708694388898,0.,1.,0.,-380.,-1.,0.,0.,             913P   1130
 765.341679935591;                                                    913P   1131
 408,911,0.,0.,0.,1.;                                                 915P   1132
-S      1G      3D    916P   1132                                        T      1
+S      1G      4D    916P   1132                                        T      1
